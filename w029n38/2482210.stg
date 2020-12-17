@@ -1,0 +1,4 @@
+OBJECT_BASE 2482210.btg
+OBJECT LPPI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -28.445743 38.554418 31.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -28.435022 38.555501 31.9 0.00
